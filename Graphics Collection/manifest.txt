@@ -1,0 +1,93 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Haseo_Allen_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Haseo_G0ku_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Kuronons_Monopoly_DoctorFee_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Kuronons_Monopoly_Gotojail_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Sasquach_Blaster
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Sasquach_CloudGoku
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Sasquach_Goku
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Sasquach_Naruto
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Sasquach_RMCF
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Sasquach_StickFight_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: stopoxy_goku_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: STOPOXY_SCHOOL_DAYS_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: STOPOXY_SEGA_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
